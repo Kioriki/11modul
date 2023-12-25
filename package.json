@@ -1,0 +1,14 @@
+{
+  "name": "11modul",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "month.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
